@@ -15,11 +15,12 @@ learning models would enable the Security Operations Center (SOC) officials to p
 
 ## Libraries <a name="installation"></a>
 The code should run using Python 3, and it is designed as Jupyter Notebook so Anaconda distribution of Python shall run the code successfully. The following lised libraries need to be installed.
-o	Numpy and Pandas for data manipulation.
-o	Scikit-learn for building the classification models and their evaluation.
-o	Matplotlib and Seaborn for data visualization.
-o	Keras for building neural networks.
-o	Imblearn for under-sampling the data
+
+- 	Numpy and Pandas for data manipulation.
+- 	Scikit-learn for building the classification models and their evaluation.
+- 	Matplotlib and Seaborn for data visualization.
+- 	Keras for building neural networks.
+- 	Imblearn for under-sampling the data
 
 
 ## File Descriptions <a name="files"></a>
